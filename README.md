@@ -32,3 +32,16 @@ like:{input1, input2, input3, output}
 {1, 1, 1, 0}
 ## homework4
 Traning shallow neural network to solve XOR problem(one input layer, one hidden layer with 4 neurons and one output layer), data is the same as homework3
+## homework5
+Trying to change the number of nodes in hiden layer of homework4, and is that work for XOR problem? How to avoid not converging
+## homework6
+Solving XOR problem and using momentum algorithm
+## homework7
+Using cross entropy and sum of squared errors loss function to train the same neural network to solve XOR problem, and comparing their "error-epoch" line
+## homework9
+Training a NN to classificate pictures with 5*5 pixels
+## homework10
+Using training data to train NN in homework in homework9, and using other data to test it(running this program repeatly and is the output the same?Why?)
+## homework11
+Using other data to test NN in homework9
+
